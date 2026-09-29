@@ -226,8 +226,8 @@ Autor: Guilherme Nino
 
 
 
- **LinkedIn:** www.linkedin.com/in/guilherme-nino
+ [**LinkedIn**](https://www.linkedin.com/in/guilherme-nino)
 
 
 
- **E-mail:** guilherme.ap.1608@gmail.com
+ [**E-mail**](mailto:guilherme.ap.1608@gmail.com)
