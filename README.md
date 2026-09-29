@@ -52,7 +52,9 @@ Valor total do estoque: R$ 700.00
 
 ## Autor e Contato
 **Projeto acadêmico desenvolvido para a disciplina Algoritmo e Pensamento Computacional.**
+
 Autor: Guilherme Nino
+ 
  **GitHub:** @GuilhermeNino
 
  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/6a41ddc8-a4ab-48d5-901a-73e5af346612" 
