@@ -30,7 +30,6 @@ Produto 2 - Codigo: 102
 Nome: Mouse
 Preco: R$ 80.00
 Quantidade: 5
-...
 ========================================
   PRODUTOS REGISTRADOS
 ========================================
@@ -46,7 +45,6 @@ Nome: Mouse
 Preco: R$ 80.00
 Quantidade: 5
 Valor em estoque: R$ 400.00
-...
 ========================================
 Valor total do estoque: R$ 700.00
 ========================================
